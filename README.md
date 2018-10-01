@@ -1,2 +1,2 @@
 # Expressions
-Functions on Infix to Postfix, Evaluate Postfix, Infix to Expression Tree, Evaluate Expression Tree.
+Functions on Infix to Postfix, Evaluating Postfix, Infix to Expression Tree and Evaluating Expression Tree.
