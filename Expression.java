@@ -15,7 +15,7 @@ import java.io.*;
 // Expression Class to hold the nodes(tokens) for the expression tree.
 public class Expression {
 	
-	// Enumeration for all the known constants(operands/operators).
+    // Enumeration for all the known constants(operands/operators).
     public enum TokenType {  
     	// NIL is a special token that can be used to mark bottom of stack
     	PLUS, TIMES, MINUS, DIV, MOD, POWER, OPEN, CLOSE, NIL, NUMBER
